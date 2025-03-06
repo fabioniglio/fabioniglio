@@ -14,6 +14,9 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/fabioniglio/)](https://github.com/fabioniglio/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/fabioniglio/)](https://github.com/fabioniglio/)
 
+[![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white&link=https://github.com/fabioniglio/)](https://github.com/fabioniglio/)
+
+
 <!--
 **fabioniglio/fabioniglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
