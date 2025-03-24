@@ -34,7 +34,7 @@
   <a href="mailto:fabioniglio.@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fabioniglio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/fabio_niglio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://user-images.githubusercontent.com/your-correct-path/image.png" width="150px" align="right" style="border-radius: 100px;" />
+  <img src="https://user-images.githubusercontent.com/12427718/426064245-2bfca8c1-39dc-4c7e-8d38-17df5ff870c5.png" width="150px" align="right" style="border-radius: 100px;" />
 
 </div>
 
