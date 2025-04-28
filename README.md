@@ -7,7 +7,7 @@
 
 👨‍💻 Full Stack Developer with experience in React, Node.js, Salesforce, and more.  
 📍 Based in Berlin, Germany 🇩🇪  
-🛠️ 9+ years in Salesforce Development | 1+ Full Stack
+🛠️ 9+ years in Salesforce Development | 2+ Full Stack
 🌱 Passionate about tech, dancing, and continuous learning.  
 🎯 Currently studying to become a **Salesforce Certified Developer** and improving my **German**.  
 💡 Open to collaborations, freelance work, and impactful tech opportunities.
