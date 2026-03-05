@@ -71,17 +71,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabioniglio&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioniglio&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-   <a href="http://www.github.com/fabioniglio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabioniglio&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img width="49%" height="195px"
+       src="https://github-readme-stats.vercel.app/api?username=fabioniglio&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" /> 
+
+  <img width="41%" height="195px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioniglio&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117&cache_seconds=86400" />
+
+  <img src="https://streak-stats.demolab.com?user=fabioniglio&theme=dark&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabioniglio}/count.svg" /></p> 
-  <br>
+  <p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/fabioniglio/count.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
