@@ -70,12 +70,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">  
-    <a href="https://github.com/fabioniglio">
-  <img height="170em"
-       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabioniglio&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff91a4&text_color=00FFFF"/>
+<div align="center">
+
+<a href="https://github.com/fabioniglio">
+<img height="170em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabioniglio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff91a4&text_color=00FFFF"/>
 </a>
-  <img src="https://streak-stats.demolab.com?user=fabioniglio&theme=dark&hide_border=true"/>
+
+<br><br>
+
+<a href="https://github.com/fabioniglio">
+<img height="170em"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabioniglio&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff91a4&text_color=00FFFF"/>
+</a>
+
 </div>
 
 ---
