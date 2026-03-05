@@ -84,7 +84,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioniglio&
 
 <div align="center">
   <p><b>Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/fabioniglio/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=fabioniglio&label=Visitors&color=00FFFF&style=flat" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
