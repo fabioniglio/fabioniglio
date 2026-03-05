@@ -72,17 +72,18 @@
 
 <div align="center">
 
-<a href="https://github.com/fabioniglio">
 <img height="170em"
 src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabioniglio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff91a4&text_color=00FFFF"/>
-</a>
 
 <br><br>
 
-<a href="https://github.com/fabioniglio">
 <img height="170em"
 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabioniglio&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff91a4&text_color=00FFFF"/>
-</a>
+
+<br><br>
+
+<img height="170em"
+src="https://streak-stats.demolab.com?user=fabioniglio&theme=dark&hide_border=true&background=0d1117&ring=ff91a4&fire=ff91a4&currStreakLabel=00FFFF"/>
 
 </div>
 
